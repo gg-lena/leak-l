@@ -1,6 +1,6 @@
 
 
-aws_access_key_id = AKIAYWPV4Q6KMFUWZ4SC
-aws_secret_access_key = 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
+aws_access_key_id = AKIAYWPV4Q6KMFUWZ4SD
+aws_secret_access_key = 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
 
 lena_SG_blablabla_54321
